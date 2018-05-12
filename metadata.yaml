@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34355#Marching-on-Niagara--Or-The-Soldier-Boys-of-the-Old-Frontier
 gutenberg_issued: '2010-11-17'
 gutenberg_type: Text
 identifiers:
